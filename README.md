@@ -3,7 +3,7 @@
  
  Das Skript benötigt die Excel-Tabellen, die mit Citavi erstellt wurden. Es werden die drei Spalten für die Markierungen entfernt, die nicht bei der Erstellung der Tabelle in Citavi unterdrückt werden können. Tabellenspalten, die komplett leer sind, werden ebenfalls entfernt. Essentielle Spalten werden nicht gelöscht. Dadurch soll die Tabelle verschlankt und besser lesbar werden
  
-Die Freitextfelder 1 bis 5 können in Citavi mit 'RVK', 'Budget', 'Anzahl', 'Standort' und 'Anmerkung' belegt werden. Der von Citavi in den Tabellen automatisch zugefügte Zusatz '(= Freitext 1)' wird entfernt.
+Die Freitextfelder 1 bis 5 können in Citavi mit `RVK`, `Budget`, `Anzahl`, `Standort` und `Anmerkung` belegt werden. Der von Citavi in den Tabellen automatisch zugefügte Zusatz `(= Freitext 1)` wird entfernt.
 
 **To do:** 
 - Dynamische Bereinigung der Freitextfelder
