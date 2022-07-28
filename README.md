@@ -1,5 +1,5 @@
 # Citavi Tabellentool
- Passt Tabellen, die von Citavi erstellt wurden, für den bibliothekarischen Gebraucht an. Ziel ist es, verschlankte Tabellen aus den von Citavi automatisch generierten Excel-Tabellen zu erstellen, die für den Bestellvorgang übersichtlicher sind.
+ Passt Tabellen, die vom Literaturverwaltungsprogramm Citavi erstellt wurden, für den bibliothekarischen Gebraucht an. Ziel ist es, verschlankte Tabellen aus den von Citavi automatisch generierten Excel-Tabellen zu erstellen, die für den Bestellvorgang übersichtlicher sind.
  
  Das Skript benötigt die Excel-Tabellen, die mit Citavi erstellt wurden. Es werden die drei Spalten für die Markierungen entfernt, die nicht bei der Erstellung der Tabelle in Citavi unterdrückt werden können. Tabellenspalten, die komplett leer sind, werden ebenfalls entfernt. Essentielle Spalten werden nicht gelöscht. Dadurch soll die Tabelle verschlankt und besser lesbar werden
  
