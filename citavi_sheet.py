@@ -13,7 +13,8 @@ try:
                        "Budget (= Freitext 2)" : "Budget",
                        "Anzahl (= Freitext 3)" : "Anzahl",
                        "Standort (= Freitext 4)" : "Standort",
-                       "Anmerkung (= Freitext 5)" : "Anmerkung"}, inplace=True)
+                       "Anmerkung (= Freitext 5)" : "Anmerkung",
+                       "Autor, Herausgeber oder Institution" : "Autor/Herausgeber"}, inplace=True)
 except Exception as ex:
     print("Fehler:", ex)
 
