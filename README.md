@@ -6,6 +6,7 @@
 Die Freitextfelder 1 bis 5 können in Citavi mit `RVK`, `Budget`, `Anzahl`, `Standort` und `Anmerkung` belegt werden. Der von Citavi in den Excel-Tabellen automatisch zugefügte Zusatz `(= Freitext 1)` wird entfernt.
 
 ## **To do:** 
+- ~~Objektorientierung~~
 - Dynamische Bereinigung der Freitextfelder
 - OpenFile-Dialog zur Auswahl der Zieldatei
 - GUI zur eleganteren Handhabung
